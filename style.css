@@ -1,0 +1,76 @@
+header{
+    text-align: center;
+    background-color: rgb(56, 55, 55);
+    padding-top: 10px;
+    color: white;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+}
+
+h1{
+    background-color: rgb(240, 227, 227);
+    color: rgb(124, 53, 53);
+}
+
+.image1{
+    text-align: center;
+}
+
+.i1{
+    align-content: center;
+    height: 400px;
+    width: 450px;
+}
+
+.image2{
+    text-align: center;
+}
+
+.i2{
+    align-content: center;
+    height: 350px;
+    width: 450px;
+}
+
+.image3{
+    text-align: center;
+}
+
+.i3{
+    align-content: center;
+    height: 350px;
+    width: 450px;
+}
+
+.heading4{
+    text-align: left;
+}
+
+.image4{
+    text-align: center;
+}
+
+.i4{
+    align-content: center;
+    height: 350px;
+    width: 450px;
+}
+
+.button{
+    padding-top: 9px;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-bottom: 9px;
+    background-color: red;
+    color: white;
+    border: none;
+    transition: box-shadow 0.5s ease;
+}
+
+button:active, input[type="submit"]:active {
+    background-color:rgb(255, 115, 0);
+    box-shadow: 0 0 10px 5px rgb(255, 115, 0);
+}
